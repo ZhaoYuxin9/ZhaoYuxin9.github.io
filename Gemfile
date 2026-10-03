@@ -11,3 +11,10 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+# Former standard-library gems needed by Jekyll 3.9 on Ruby 3.4+
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
+gem 'logger'
+gem 'ostruct'
