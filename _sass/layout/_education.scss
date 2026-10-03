@@ -1,0 +1,46 @@
+/* ==========================================================================
+   EDUCATION TIMELINE
+   ========================================================================== */
+
+.education {
+  margin-top: 1.5em;
+
+  article {
+    display: grid;
+    grid-template-columns: 9em 1fr;
+    column-gap: 1.5em;
+    margin-bottom: 1.6em;
+  }
+
+  time {
+    padding-top: 0.15em;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 0.8em;
+    color: var(--global-link-color);
+    white-space: nowrap;
+  }
+
+  h3 {
+    margin: 0 0 0.35em;
+    font-size: 1em;
+    font-weight: bold;
+  }
+
+  p {
+    margin: 0 0 0.15em;
+    font-size: 0.9em;
+    color: var(--global-text-color);
+    opacity: 0.75;
+  }
+
+  .education-detail {
+    font-size: 0.8em;
+  }
+
+  @media (max-width: 600px) {
+    article {
+      grid-template-columns: 1fr;
+      row-gap: 0.3em;
+    }
+  }
+}
