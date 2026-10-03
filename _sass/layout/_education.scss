@@ -46,20 +46,11 @@
   }
 }
 
-/* Publications: no year column; venue/status badges */
+/* Publications: no year column; accent bar and venue/status badges */
 .publications article {
   grid-template-columns: 1fr;
-}
-
-/* Thin gray dividers between publications and after the last one */
-.publications article + article {
-  padding-top: 1.4em;
-  border-top: 1px solid var(--global-border-color);
-}
-
-.publications article:last-child {
-  padding-bottom: 1.4em;
-  border-bottom: 1px solid var(--global-border-color);
+  padding: 0.2em 0 0.2em 1em;
+  border-left: 3px solid var(--global-link-color);
 }
 
 .publications .pub-badges {
