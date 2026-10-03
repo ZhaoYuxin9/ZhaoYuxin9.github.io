@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yuxin Zhao, TODO: position at TODO: university.
+Hi! I am Yuxin Zhao, a Ph.D. candidate at [Kyoto University](https://www.kyoto-u.ac.jp/en).
 
 My research interests include TODO.
 

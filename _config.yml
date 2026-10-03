@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Yuxin Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "TODO: one-line bio"
+  bio              : "Ph.D. Candidate at Kyoto University"
   location         : "Kyoto, Japan"
-  employer         : "TODO: University"
+  employer         : "Kyoto University"
   uri              : # URL
-  email            : # TODO 
+  email            : "zhaoyuxin99@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : # TODO: URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # TODO: URL
+  orcid            : "https://orcid.org/0009-0007-6472-9588"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
