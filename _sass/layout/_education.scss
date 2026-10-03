@@ -45,3 +45,8 @@
     }
   }
 }
+
+/* Publications have no year column */
+.publications article {
+  grid-template-columns: 1fr;
+}

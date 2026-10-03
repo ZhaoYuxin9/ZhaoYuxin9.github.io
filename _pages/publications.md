@@ -7,7 +7,6 @@ author_profile: true
 
 <div class="publications">
   <article>
-    <time>2023</time>
     <div>
       <h3>Development of a Camera Motion Estimation Method Utilizing Motion Blur in Images</h3>
       <p><strong>Yuxin Zhao</strong>, Hirotake Ishii, Hiroshi Shimoda</p>
