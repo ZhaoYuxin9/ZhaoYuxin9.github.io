@@ -17,10 +17,6 @@ My research focuses on **human-robot interaction**, **social robotics**, and **L
 
 Before my Ph.D., I received my M.S. from the Graduate School of Energy Science, Kyoto University, where I worked on computer vision, deep learning, and SLAM. I received my B.Eng. in Energy and Power Engineering, with a second degree in Finance, from Xi'an Jiaotong University.
 
-<h2 id="news" class="home-section">News</h2>
-
-* *2026-10*: Launched my personal homepage.
-
 <h2 id="publications" class="home-section">Publications</h2>
 
 <div class="publications">
