@@ -27,7 +27,7 @@ author:
   name             : "Yuxin Zhao (赵雨欣)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Human-Robot Interaction"
-  location         : "Kyoto, Japan"
+  location         :
   employer         : "Kyoto University"
   uri              : # URL
   email            : "zhaoyuxin99@gmail.com"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ZhaoYuxin9"
+  github           :
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
