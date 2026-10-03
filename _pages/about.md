@@ -15,8 +15,6 @@ Hi! I am Yuxin Zhao (赵雨欣), a Ph.D. candidate at the [Graduate School of In
 
 My research focuses on **human-robot interaction**, **social robotics**, and **LLM agents**, exploring how robots can understand people and interact with them naturally in social settings.
 
-Before my Ph.D., I received my M.S. from the Graduate School of Energy Science, Kyoto University, where I worked on computer vision, deep learning, and SLAM. I received my B.Eng. in Energy and Power Engineering, with a second degree in Finance, from Xi'an Jiaotong University.
-
 <h2 id="publications" class="home-section">Publications</h2>
 
 <div class="publications">
