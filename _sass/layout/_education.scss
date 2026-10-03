@@ -46,11 +46,9 @@
   }
 }
 
-/* Publications: no year column; accent bar and venue/status badges */
+/* Publications: no year column; venue/status badges */
 .publications article {
   grid-template-columns: 1fr;
-  padding: 0.2em 0 0.2em 1em;
-  border-left: 3px solid var(--global-link-color);
 }
 
 .publications .pub-badges {
