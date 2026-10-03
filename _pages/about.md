@@ -44,6 +44,32 @@ Before my Ph.D., I received my M.S. from the Graduate School of Energy Science, 
 
 See also my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.
 
+<h2 id="teaching" class="home-section">Teaching</h2>
+
+<div class="education">
+  <article>
+    <time>2026</time>
+    <div>
+      <h3>Human-Robot Interaction</h3>
+      <p>Teaching Assistant, Kyoto University</p>
+    </div>
+  </article>
+  <article>
+    <time>2026</time>
+    <div>
+      <h3>Physics Laboratory</h3>
+      <p>Teaching Assistant, Kyoto University</p>
+    </div>
+  </article>
+  <article>
+    <time>2025</time>
+    <div>
+      <h3>Artificial Intelligence</h3>
+      <p>Teaching Assistant, Kyoto University</p>
+    </div>
+  </article>
+</div>
+
 <h2 id="education" class="home-section">Education</h2>
 
 <div class="education">
