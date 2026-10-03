@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yuxin Zhao, a Ph.D. candidate at the [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en), where I work in the [HRI Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/).
+Hi! I am Yuxin Zhao (赵雨欣), a Ph.D. candidate at the [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en), where I work in the [HRI Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/).
 
 My research focuses on **human-robot interaction**, **social robotics**, and **LLM agents**, exploring how robots can understand people and interact with them naturally in social settings.
 
