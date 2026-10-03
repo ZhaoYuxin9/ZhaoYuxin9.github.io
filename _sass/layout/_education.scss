@@ -46,7 +46,57 @@
   }
 }
 
-/* Publications have no year column */
+/* Publications: no year column; accent bar and venue/status badges */
 .publications article {
   grid-template-columns: 1fr;
+  padding: 0.2em 0 0.2em 1em;
+  border-left: 3px solid var(--global-link-color);
+}
+
+.publications .pub-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-bottom: 0.45em;
+}
+
+.publications .badge {
+  display: inline-block;
+  padding: 0.15em 0.6em;
+  border-radius: 4px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.7em;
+  font-weight: bold;
+  line-height: 1.5;
+  color: #fff;
+  background: var(--global-link-color);
+}
+
+.publications .badge--status {
+  color: #b35900;
+  background: transparent;
+  border: 1px solid #e08a2e;
+}
+
+/* Home page sections: keep anchors clear of the fixed masthead */
+html {
+  scroll-behavior: smooth;
+}
+
+.home-section {
+  scroll-margin-top: 5em;
+  margin-top: 2em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+/* Long single-page home: let the footer sit after the content instead of
+   pinning it over the viewport (template default is position: fixed). */
+.page__footer {
+  position: relative;
+  bottom: auto;
+}
+
+body {
+  margin-bottom: 0 !important;
 }
