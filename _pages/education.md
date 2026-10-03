@@ -23,7 +23,7 @@ redirect_from:
     <div>
       <h3>Kyoto University</h3>
       <p>M.S., Graduate School of Energy Science</p>
-      <p class="education-detail">Energy Informatics Laboratory · Computer vision, deep learning, SLAM</p>
+      <p class="education-detail"><a href="https://hydro.energy.kyoto-u.ac.jp/wp/">Energy and Information Lab</a> · Computer vision, deep learning, SLAM</p>
       <p class="education-detail">Supported by the Asian Future Leaders Scholarship Program (AFLSP)</p>
     </div>
   </article>
