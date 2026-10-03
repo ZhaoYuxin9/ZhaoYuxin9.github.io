@@ -51,6 +51,12 @@
   grid-template-columns: 1fr;
 }
 
+/* Thin gray divider between publications */
+.publications article + article {
+  padding-top: 1.4em;
+  border-top: 1px solid var(--global-border-color);
+}
+
 .publications .pub-badges {
   display: flex;
   flex-wrap: wrap;
