@@ -15,6 +15,7 @@ redirect_from:
       <h3>Kyoto University</h3>
       <p>Ph.D., Graduate School of Informatics</p>
       <p class="education-detail"><a href="https://www.robot.soc.i.kyoto-u.ac.jp/en/">HRI Lab</a> · Human-robot interaction, social robotics, LLM agents</p>
+      <p class="education-detail">Supported by the DoGS Next AI Program</p>
     </div>
   </article>
   <article>
@@ -23,6 +24,7 @@ redirect_from:
       <h3>Kyoto University</h3>
       <p>M.S., Graduate School of Energy Science</p>
       <p class="education-detail">Energy Informatics Laboratory · Computer vision, deep learning, SLAM</p>
+      <p class="education-detail">Supported by the Asia Future Leaders Scholarship Program (AFLSP)</p>
     </div>
   </article>
   <article>
