@@ -2,8 +2,5 @@
 # Removing a link prevents it from showing in the header.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "CV"
-    url: /cv/
+  - title: "Education"
+    url: /education/
