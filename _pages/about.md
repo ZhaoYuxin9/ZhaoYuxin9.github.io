@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Yuxin Zhao (赵雨欣)"
 author_profile: true
 redirect_from: 
   - /about/
