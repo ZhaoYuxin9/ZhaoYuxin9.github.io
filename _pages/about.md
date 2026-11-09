@@ -107,6 +107,7 @@ My research focuses on human–robot interaction, social robotics, and LLM-based
     <div>
       <h3>Xi'an Jiaotong University</h3>
       <p>B.Eng., School of Energy and Power Engineering</p>
+      <p class="education-detail">Research: 3D modeling, computational fluid dynamics</p>
       <p class="education-detail">Second degree: B.Econ., Finance</p>
     </div>
   </article>
