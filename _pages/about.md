@@ -20,10 +20,10 @@ My research focuses on human–robot interaction, social robotics, and LLM-based
 <div class="publications">
   <article>
     <div>
-      <div class="pub-badges"><span class="badge">HRI ’27</span><span class="badge badge--status">Under Review</span></div>
+      <div class="pub-badges"><span class="badge">HRI 2027</span><span class="badge badge--status">Under Review</span></div>
       <h3>Manuscript under review</h3>
       <p>First and corresponding author</p>
-      <p class="education-detail">Submitted to the ACM/IEEE International Conference on Human–Robot Interaction (<em>HRI ’27</em>).</p>
+      <p class="education-detail">Submitted to the ACM/IEEE International Conference on Human–Robot Interaction (<em>HRI 2027</em>).</p>
     </div>
   </article>
   <article>
@@ -36,7 +36,24 @@ My research focuses on human–robot interaction, social robotics, and LLM-based
   </article>
 </div>
 
-See also my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.
+<h2 id="presentations" class="home-section">Presentations</h2>
+
+<div class="publications">
+  <article>
+    <div>
+      <div class="pub-badges"><span class="badge">RO-MAN 2026</span></div>
+      <h3>Designing a Humor Support System for Remote Operators of Telepresence Robots</h3>
+      <p class="education-detail"><em>M.I.L.E. Workshop, IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026)</em></p>
+    </div>
+  </article>
+  <article>
+    <div>
+      <div class="pub-badges"><span class="badge">HI Symposium 2026</span></div>
+      <h3>A Humor Support System for Remote Operators of Guide Robots</h3>
+      <p class="education-detail"><em>Human Interface Symposium 2026</em></p>
+    </div>
+  </article>
+</div>
 
 <h2 id="teaching" class="home-section">Teaching</h2>
 
